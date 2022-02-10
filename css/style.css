@@ -1,0 +1,79 @@
+/* Estilos Navbar */
+.pink{
+    background: #e83e8c !important;
+} 
+
+.nav1{
+    margin-left: 120px;
+    width: 130px;
+}
+
+.index1{
+    margin-left: 900px;
+}
+
+/* Estilos Cartas */
+.card1{
+  
+    padding: 20%;
+}
+
+/* Estilos Titulo */
+.title1{
+    margin-top: 200px;
+    text-align: center;
+    font-size: 50px;
+    color: #212529;
+}
+
+/* Estilos Texto */
+.text1{
+    margin-top: 200px;
+    text-align: center;
+    font-size: 50px;
+    color: #212529;
+}
+
+.text2{
+    margin-left: 20px;
+    font-size: 12px;
+}
+
+.text3{
+    margin-left: 20px;
+    font-size: 12px;
+    color: #17a2b8;
+}
+
+.text4{
+    text-align: center;
+    font-size: 50px;
+    color: #fff;
+    margin-top: 25px;
+}
+
+/* Estilos Sección */
+.blue{
+    background: #17a2b8;
+} 
+
+/* Estilo footer */
+footer{
+    text-align: center;
+}
+
+.footer1{
+   margin: 20px 0 20px 0;
+   height: 80px;
+}
+
+.container1{
+    height: 120px;
+ }
+ 
+ /* Estilo icono */
+.icon1{
+    font-size: 50px;
+    color: #fff ;
+    margin-top: 32px;
+}
